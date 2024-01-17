@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.container{
+    width: 400px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 30px;
+    margin-top: 50%;
+    margin-left: 50%;
+    
+
+}
